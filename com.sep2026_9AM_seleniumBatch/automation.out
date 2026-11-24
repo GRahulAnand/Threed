@@ -1,9 +1,0 @@
-Init the Properties file...
-Opening the Browser:- chrome
-Navigating to application : https://www.amazon.in/
-Selecting option Books By usong locator: searchDropdownBox
-Typing text Harry Potter By using Locator :twotabsearchtextbox
-Clicked on Element By ussong Locator: //input[@id="nav-search-submit-button"]
-Retrying testamazon with statusFAILUREfor the1time(s).
-Retrying testamazon with statusFAILUREfor the2time(s).
-Retrying testamazon with statusFAILUREfor the3time(s).
